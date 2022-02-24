@@ -9,6 +9,8 @@ import de.zippus.comaco.xml.pojo.ICMResponse;
 
 public class Channel implements IChannel, IProgressListener {
 
+	// Test
+	
 	private IPaymentListener paymentListener;
 	private String ip;
 	private int port;
