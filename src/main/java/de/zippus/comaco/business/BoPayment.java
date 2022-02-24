@@ -1,8 +1,6 @@
 package de.zippus.comaco.business;
 
-import static org.junit.Assert.assertThrows;
 
-import java.lang.reflect.InvocationTargetException;
 import java.math.BigDecimal;
 
 import javax.swing.JOptionPane;

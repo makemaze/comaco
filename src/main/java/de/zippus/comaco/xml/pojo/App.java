@@ -1,6 +1,5 @@
 package de.zippus.comaco.xml.pojo;
 
-import de.zippus.comaco.IPaymentListener;
 import jakarta.xml.bind.annotation.XmlElement;
 import jakarta.xml.bind.annotation.XmlRootElement;
 import jakarta.xml.bind.annotation.XmlTransient;
